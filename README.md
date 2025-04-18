@@ -75,10 +75,10 @@ A console-based scientific calculator written in C++. Capable of performing a va
 git clone https://github.com/yourusername/scientific-calculator.git
 cd scientific-calculator
 g++ *.cpp -o calculator
-
+---
 ## ▶️ Run
 ./calculator
-
+---
 ## 🖥️ Sample Output
 ==== Welcome to our Scientific Calculator! ====
 Press 1 for addition
@@ -89,7 +89,7 @@ Press 14 for custom calculation
 Enter your expression (NO SPACE):
 2r16
 Final answer: 4
-
+---
 ## 📜 History Options
 - View History → Option 12
 - Clear History → Option 13
