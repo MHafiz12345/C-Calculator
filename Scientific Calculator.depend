@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1696673892 source:c:\users\amand\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\history.cpp
+	"History.h"
+	<iostream>
+	<cstdlib>
+
+1696671325 c:\users\amand\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\history.h
+
+1696674367 source:c:\users\amand\onedrive\dokumen\school\data structure and algorithm\scientific calculator\main.cpp
+	<iostream>
+	<cstdlib>
+	"advance_trig.h"
+
+1696674278 c:\users\amand\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\advance_trig.h
+
+1696674834 source:c:\users\amand\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\advance_trig.cpp
+	"advance_trig.h"
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1696926637 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<string>
+	<vector>
+	<deque>
+	<cmath>
+	"advance_trig.h"
+	"History.h"
+	"powerclass.h"
+	"sqrt.h"
+	"log10.h"
+	"naturallogarithm.h"
+	"LogCustomBase.h"
+	"addition.h"
+	"substraction.h"
+	"Trigonometry.h"
+	"multiplication.h"
+	"division.h"
+
+1696845905 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\advance_trig.h
+	"History.h"
+
+1696923610 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\history.h
+	<string>
+
+1696845904 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\powerclass.h
+	"History.h"
+
+1696845905 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\sqrt.h
+	"History.h"
+
+1696845905 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\log10.h
+	"History.h"
+
+1696845905 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\naturallogarithm.h
+	"History.h"
+
+1696845904 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\logcustombase.h
+	"History.h"
+
+1696923610 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\addition.h
+	"History.h"
+
+1696845905 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\substraction.h
+	"History.h"
+
+1696845904 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\trigonometry.h
+	"History.h"
+
+1696845904 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\multiplication.h
+	"History.h"
+
+1696845905 c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\include\division.h
+	"History.h"
+
+1696845905 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\advance_trig.cpp
+	"advance_trig.h"
+	"History.h"
+	<string>
+	<cmath>
+	<cstdlib>
+	<iostream>
+
+1696845904 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\division.cpp
+	"division.h"
+	"History.h"
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1696923610 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\history.cpp
+	"History.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1696845904 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\log10.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<string>
+	"log10.h"
+	"History.h"
+
+1696845904 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\logcustombase.cpp
+	<iostream>
+	"LogCustomBase.h"
+	"History.h"
+	<string>
+	<cmath>
+	<cstdlib>
+
+1696845904 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\multiplication.cpp
+	"multiplication.h"
+	"History.h"
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1696845905 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\naturallogarithm.cpp
+	"naturallogarithm.h"
+	"History.h"
+	<iostream>
+	<string>
+	<cmath>
+	<cstdlib>
+
+1696845904 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\powerclass.cpp
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<string>
+	"History.h"
+	"powerclass.h"
+
+1696845905 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\sqrt.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<cstdlib>
+	"sqrt.h"
+	"History.h"
+
+1696845904 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\substraction.cpp
+	"substraction.h"
+	"History.h"
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1696845905 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\trigonometry.cpp
+	"Trigonometry.h"
+	"History.h"
+	<string>
+	<cmath>
+	<iostream>
+
+1696923610 source:c:\users\amand\downloads\compressed\midterm-dsa-main\onedrive\dokumen\school\data structure and algorithm\scientific calculator\src\addition.cpp
+	"addition.h"
+	"History.h"
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<string>
+
