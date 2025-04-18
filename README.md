@@ -1,11 +1,9 @@
 # 🧮 Scientific Calculator in C++
-
 A console-based scientific calculator written in C++. Capable of performing a variety of mathematical operations, from basic arithmetic to advanced trigonometry and expression evaluation. Includes a history tracking feature for storing past calculations.
 
 ---
 
 ## 📌 Features
-
 - **Basic Operations**
   - Addition
   - Subtraction
@@ -26,7 +24,7 @@ A console-based scientific calculator written in C++. Capable of performing a va
 ---
 
 ## 📂 Project Structure
-
+```
 .
 ├── main.cpp             # Program entry point
 ├── addition.*           # Addition logic
@@ -41,12 +39,11 @@ A console-based scientific calculator written in C++. Capable of performing a va
 ├── Trigonometry.*       # Basic trig functions
 ├── advance_trig.*       # Inverse trig functions
 ├── History.*            # Linked list-based history tracking
-
+```
 
 ---
 
 ## 💡 Custom Expression Guide
-
 | Symbol | Operation             | Example     |
 |--------|------------------------|-------------|
 | `+`    | Addition               | `5+3`       |
@@ -69,7 +66,6 @@ A console-based scientific calculator written in C++. Capable of performing a va
 ---
 
 ## 🧠 How It Works
-
 1. A menu interface guides function selection.
 2. Each feature is implemented via a dedicated class.
 3. Results are shown immediately and stored in memory.
@@ -78,21 +74,23 @@ A console-based scientific calculator written in C++. Capable of performing a va
 ---
 
 ## 🛠️ Build & Run
-
 ### ✅ Requirements
 - C++ compiler (e.g., `g++`)
 
 ### 🔧 Build Instructions
-
 ```bash
 git clone https://github.com/yourusername/scientific-calculator.git
 cd scientific-calculator
 g++ *.cpp -o calculator
----
+```
+
 ## ▶️ Run
+```bash
 ./calculator
+```
 
 ## 🖥️ Sample Output
+```
 ==== Welcome to our Scientific Calculator! ====
 Press 1 for addition
 Press 2 for subtraction
@@ -101,6 +99,7 @@ Press 14 for custom calculation
 Enter your expression (NO SPACE):
 2r16
 Final answer: 4
+```
 
 ## 📜 History Options
 - View History → Option 12
