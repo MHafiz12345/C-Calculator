@@ -27,7 +27,20 @@ A console-based scientific calculator written in C++. Capable of performing a va
 
 ## 📂 Project Structure
 
-. ├── main.cpp # Program entry point ├── addition.* # Addition logic ├── substraction.* # Subtraction logic ├── multiplication.* # Multiplication logic ├── division.* # Division logic ├── sqrt.* # Square root logic ├── powerclass.* # Power/exponentiation logic ├── log10.* # Log base 10 ├── naturallogarithm.* # Natural log (ln) ├── LogCustomBase.* # Log with custom base ├── Trigonometry.* # Basic trig functions ├── advance_trig.* # Inverse trig functions ├── History.* # Linked list-based history tracking
+.
+├── main.cpp             # Program entry point
+├── addition.*           # Addition logic
+├── substraction.*       # Subtraction logic
+├── multiplication.*     # Multiplication logic
+├── division.*           # Division logic
+├── sqrt.*               # Square root logic
+├── powerclass.*         # Power/exponentiation logic
+├── log10.*              # Log base 10
+├── naturallogarithm.*   # Natural log (ln)
+├── LogCustomBase.*      # Log with custom base
+├── Trigonometry.*       # Basic trig functions
+├── advance_trig.*       # Inverse trig functions
+├── History.*            # Linked list-based history tracking
 
 
 ---
@@ -76,20 +89,19 @@ git clone https://github.com/yourusername/scientific-calculator.git
 cd scientific-calculator
 g++ *.cpp -o calculator
 ---
-**## ▶️ Run**
+## ▶️ Run
 ./calculator
----
-**## 🖥️ Sample Output**
+
+## 🖥️ Sample Output
 ==== Welcome to our Scientific Calculator! ====
 Press 1 for addition
 Press 2 for subtraction
 ...
 Press 14 for custom calculation
-
 Enter your expression (NO SPACE):
 2r16
 Final answer: 4
----
-**## 📜 History Options**
+
+## 📜 History Options
 - View History → Option 12
 - Clear History → Option 13
