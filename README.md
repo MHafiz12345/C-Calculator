@@ -76,10 +76,10 @@ git clone https://github.com/yourusername/scientific-calculator.git
 cd scientific-calculator
 g++ *.cpp -o calculator
 ---
-## ▶️ Run
+**## ▶️ Run**
 ./calculator
 ---
-## 🖥️ Sample Output
+**## 🖥️ Sample Output**
 ==== Welcome to our Scientific Calculator! ====
 Press 1 for addition
 Press 2 for subtraction
@@ -90,6 +90,6 @@ Enter your expression (NO SPACE):
 2r16
 Final answer: 4
 ---
-## 📜 History Options
+**## 📜 History Options**
 - View History → Option 12
 - Clear History → Option 13
